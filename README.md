@@ -1,5 +1,7 @@
 # jstransformer-bracket-template
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/jstransformers/jstransformer-bracket-template.svg)](https://greenkeeper.io/)
+
 [Bracket-Template](https://github.com/danlevan/bracket-template) support for [JSTransformers](http://github.com/jstransformers).
 
 [![Build Status](https://img.shields.io/travis/jstransformers/jstransformer-bracket-template/master.svg)](https://travis-ci.org/jstransformers/jstransformer-bracket-template)
