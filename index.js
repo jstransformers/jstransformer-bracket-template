@@ -1,6 +1,6 @@
 'use strict'
 
-var bracket = require('bracket-template')
+const bracket = require('bracket-template')
 
 exports.name = 'bracket-template'
 exports.inputFormats = ['bracket-template', 'bracket', 'brkt']
