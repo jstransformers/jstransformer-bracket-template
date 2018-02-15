@@ -15,9 +15,9 @@
 ## API
 
 ```js
-var bracket-template = require('jstransformer')(require('jstransformer-bracket-template'));
+var bracket = require('jstransformer')(require('jstransformer-bracket-template'));
 
-bracket-template.render('Hello [[= model.name ]]!', {name: 'World'}).body
+bracket.render('Hello [[= model.name ]]!', {name: 'World'}).body
 //=> 'Hello, World!'
 ```
 
